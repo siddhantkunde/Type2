@@ -25,5 +25,6 @@ export async function seed(knex: Knex): Promise<void> {
             email:"sid@gmail.com",
             password:"sid12"
         },
+
     ]);
 };
